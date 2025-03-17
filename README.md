@@ -24,6 +24,3 @@ A simple yet powerful task management web application built with Node.js for the
 ## Prerequisites
 - Node.js (v14 or higher)
 - A modern web browser
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
